@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines our automated deployment pipeline, following industry best practices from top-tier organizations. Our goal is to achieve continuous deployment with high reliability and fast feedback cycles.
+This document describes the planned automated deployment pipeline. The goal is continuous deployment with reliable, fast feedback.
 
 ## 🏗️ Pipeline Architecture
 

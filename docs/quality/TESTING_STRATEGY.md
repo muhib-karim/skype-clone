@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines our comprehensive testing strategy, modeled after top-tier software organizations. Our goal is to achieve >95% code coverage with automated testing across all layers.
+This document describes the testing strategy for the project. The target is >95% code coverage with automated tests across all layers; current tests cover the backend only.
 
 ## 📊 Testing Pyramid
 
@@ -199,9 +199,7 @@ jobs:
 | shared | 95% | N/A | N/A |
 
 ### Coverage Badges
-```markdown
-[![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](https://coverage.example.com)
-```
+No coverage service is configured yet. Add a coverage badge to the README once one is set up and reporting real numbers.
 
 ## 🔧 Testing Tools & Infrastructure
 

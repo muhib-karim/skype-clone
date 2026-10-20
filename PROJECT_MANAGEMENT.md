@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the professional project management structure for the Skype Clone project, modeled after top-tier software development organizations (Google, Netflix, Airbnb, etc.).
+This document describes how the Skype Clone project is planned and tracked: epics, sprints, work in progress and risks.
 
 ## 🎯 Project Vision
 

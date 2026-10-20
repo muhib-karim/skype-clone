@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines our comprehensive observability strategy, following patterns from industry leaders like Google, Netflix, and Amazon. Our goal is to achieve full system visibility with proactive monitoring and rapid incident response.
+This document describes the planned observability setup. The goal is full system visibility with proactive monitoring and fast incident response.
 
 ## 🏗️ Observability Architecture
 
